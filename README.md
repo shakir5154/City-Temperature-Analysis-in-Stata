@@ -20,7 +20,6 @@ The dataset contains information on:
 
 2. **Visualization**:
    - Boxplots and scatterplots to identify patterns in the data.
-   - Heatmaps for regional temperature analysis.
 
 3. **Clustering**:
    - Group cities based on standardized climate variables.
