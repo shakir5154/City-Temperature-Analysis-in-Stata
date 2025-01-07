@@ -1,6 +1,6 @@
 # City Temperature Analysis in Stata
 
-This repository contains an in-depth analysis of U.S. city temperature data using Stata. As part of my MS Economics journey, this project showcases my proficiency in data analysis, statistical techniques, and visualization.
+This repository contains an in-depth analysis of U.S. city temperature data using Stata. This project showcases my proficiency in data analysis, statistical techniques, and visualization.
 
 ## Objectives
 - Perform descriptive and regression analyses on climate-related variables.
@@ -46,7 +46,6 @@ The dataset contains information on:
 - Graphs:
   - `jan_boxplot.png`
   - `cooldd_tempjuly.png`
-  - `temp_heatmap.png`
 
 ## How to Run
 1. Clone this repository: `git clone https://github.com/shakir5154/citytemp-analysis.git`
